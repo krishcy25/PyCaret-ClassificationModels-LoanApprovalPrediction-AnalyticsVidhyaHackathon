@@ -1,8 +1,5 @@
 # PyCaret-ClassificationModels-LoanApprovalPrediction-AnalyticsVidhyaHackathon
 
-# PyCaret-Classification-Models--Loan Approval Decision Prediction-AnalyticsVidhyaHackathon
-
-
 ![p1](https://user-images.githubusercontent.com/65406908/88794182-0e036c80-d16c-11ea-8d78-c362f1f0369a.PNG)
 
 
